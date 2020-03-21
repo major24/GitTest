@@ -8,5 +8,10 @@ namespace GitTest
         {
             Console.WriteLine("Hello World!");
         }
+
+        static void RunFeature1()
+        {
+
+        }
     }
 }
