@@ -11,7 +11,7 @@ namespace GitTest
 
         static void RunFeature1()
         {
-            Console.WriteLine("blabla");
+            Console.WriteLine("blabla kayer");
         }
     }
 }
