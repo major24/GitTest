@@ -15,5 +15,11 @@ namespace GitTest
             Console.WriteLine("blchg 2");
             Console.WriteLine("blnew change3");
         }
+
+        static void RunFeature2()
+        {
+            Console.WriteLine("new f2 ftns");
+            
+        }
     }
 }
