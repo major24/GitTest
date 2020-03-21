@@ -11,7 +11,7 @@ namespace GitTest
 
         static void RunFeature1()
         {
-            Console.WriteLine("blwelcome");
+            Console.WriteLine("blnew change");
         }
     }
 }
