@@ -1,1 +1,19 @@
 
+function GetApplesById(id) {
+  // feat2 got implemented by a
+  aaaaaaa aaaaaaaaaaaaaa
+  bbbbbbb bbbbbbbbbbbb
+}
+
+function GetAllApples() {
+  // feat2 got implemented by a
+  xxxxxx xxxxxxxxx
+  zzzzzz zzzzzzzzz
+}
+
+// Utils
+function ConvertStringToNumber(id) {
+  // ......
+  // ......
+}
+
